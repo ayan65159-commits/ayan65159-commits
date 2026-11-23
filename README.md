@@ -66,6 +66,14 @@
   <img src="https://komarev.com/ghpvc/?username=ayan65159-commits&label=Profile%20Views&color=FF9900&style=flat" alt="Profile views"/>
 </div>
 
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayan65159-commits/ayan65159-commits/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayan65159-commits/ayan65159-commits/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/ayan65159-commits/ayan65159-commits/output/github-contribution-grid-snake.svg" />
+</picture>
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 </div>
